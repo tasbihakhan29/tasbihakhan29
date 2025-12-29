@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tasbiha Khan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **MedSync**
+- 🔭 I’m currently working on **MedSync Project**
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **react,node java and android development**
+- 💬 Ask me about **react,node, java and android development**
 
 - 📫 How to reach me **tasbihatahreemkhan@gmail.com**
+
+- 📄 Know about my experiences [https://tasbiha-portfolio.vercel.app/](https://tasbiha-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
