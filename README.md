@@ -5,7 +5,7 @@
 
 * 💻 I’m working on various projects related to **Backend Development, AI & ML**
 
-* 💬 Ask me about **React, Node.js, Java and Backend Development**
+* 💬 Ask me about **React, Node.js, SpringBoot, Java and Backend Development**
 
 * 📫 How to reach me **[tasbihakhan543@gmail.com](mailto:tasbihakhan543@gmail.com)**
 
